@@ -23,7 +23,11 @@ projectDS
             scrapeHotelReview.R
 ```
 
-Untuk Shiny App, terdapat pada directory [HotelReview](./HotelReview).
+Untuk Shiny App, terdapat pada directory [HotelReview.](./HotelReview)
 
-Untuk pre-developing Shiny App, dibuat terlebih dahulu `model` dan `classiifier` nya dengan `script` yang terdapat pada `./Dataset&Classifier`.
+Untuk pre-developing Shiny App, dibuat lebih dahulu `model` dan `classiifier` nya dengan `script` yang terdapat pada [Dataset&Classifier](./Dataset&Classifier).
 > Extract terlebih dahulu dataset `hotel-reviews.rar` sebelum menjalankan `naivebayes.R`
+
+
+## Dataset
+Dataset yang digunakan didapatkan dari website [Kaggle](https://www.kaggle.com/harmanpreet93/hotelreviews).
