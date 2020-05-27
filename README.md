@@ -2,13 +2,13 @@
 Shiny App for Sentiment Analysis of Hotel Reviews on TripAdvisor using Naive Bayes
 
 ```
-projectDS
-├───Dataset&Classifier
+## projectDS
+├───# Dataset&Classifier
 │       hotel-reviews.rar
 │       naivebayes.R
 │       scrapTripadvisor.R
 │
-└───HotelReview
+└───# HotelReview
     │   .Rhistory
     │   app.R
     │   HotelReview.Rproj
